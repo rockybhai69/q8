@@ -1,4 +1,5 @@
-//*<HTML>
+//*
+<HTML>
 <BODY>
 <FORM ACTION="Test" METHOD="GET">
 <INPUT TYPE="SUBMIT" VALUE="createcookies"><HR>
